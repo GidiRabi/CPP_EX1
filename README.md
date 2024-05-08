@@ -1,4 +1,4 @@
-# מטלה 1 - גרפים (Classes and Namespaces) - Graph Algorithms Implementation
+# Assignment 1 Graphs - (Classes and Namespaces)
 
 
 ## Overview
@@ -22,7 +22,7 @@ To compile the program, run `make all`. This will generate the executable files 
 ## Usage
 - `Graph.cpp`: Include this file in your project to use the Graph class for representing graphs and loading them from adjacency matrices.
 - `Algorithms.cpp`: Include this file in your project to use the implemented graph algorithms.
-- `Demo.cpp`: Refer to this file for examples of how to use the implemented algorithms.
+- `Main.cpp`: Refer to this file for examples of how to use the implemented algorithms.
 
 ## Author
 - Gidi Rabi
